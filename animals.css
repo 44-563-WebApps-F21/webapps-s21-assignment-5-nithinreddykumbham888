@@ -25,3 +25,9 @@ a.def:hover{
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
 }
+
+.card1{
+    display: flex;
+    padding: 15px;
+    margin: 15px;
+}
