@@ -18,3 +18,10 @@ p{
     color: crimson;
     text-align: center;
 }
+
+a.def:hover{
+    color:chocolate;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
